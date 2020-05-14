@@ -1,2 +1,2 @@
-# part0
-This part covers the excerices in part0 of the full stack course
+# fullstackopen
+This repo contains all the exercises of the course 
